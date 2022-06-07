@@ -1,4 +1,4 @@
-from PyQt6.QtWidgets import QApplication, QWidget,  QVBoxLayout, QLabel, QPushButton, QLineEdit
+from PyQt6.QtWidgets import QApplication, QWidget,  QVBoxLayout, QLabel, QPushButton, QLineEdit, QComboBox
 from bs4 import BeautifulSoup
 import requests
 
